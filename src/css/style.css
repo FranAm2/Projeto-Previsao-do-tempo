@@ -14,7 +14,7 @@ body{
     color: white;
     max-width: 330px;
     text-align: center;
-    background-image: url("/src/imagens/background.png");
+    background-image: url('../imagens/background.png');
     background-position: center top;
     background-size: cover;
     border-radius: 15px;
