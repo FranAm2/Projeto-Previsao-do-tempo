@@ -2,9 +2,7 @@ body{
     font-family: 'Red Hat Display', sans-serif;
     background-color: #eee;
     display: flex;
-    /* alinha verticalmente */
     align-items: center; 
-    /* alinha horizontalmete*/
     justify-content: center;
     height: 100vh;
 }
@@ -26,7 +24,6 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    /* espaçamento entre os filhos*/
     gap: 5px;
 }
 
